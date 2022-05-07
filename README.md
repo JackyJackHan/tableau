@@ -1,4 +1,4 @@
-# tableau
+# 2021년 KBO 리그 트렌드 분석 시각화
 
 2021년 KBO 리그 트렌드 분석 시각화입니다. (https://github.com/JackyJackHan/KBOtrendanalysis)
 
